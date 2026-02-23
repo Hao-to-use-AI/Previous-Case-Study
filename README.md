@@ -15,7 +15,7 @@ I’m treating this space as a "what if" experiment: revisiting complex hardware
 
 ### 📩 Let's Connect
 If you find these case studies helpful or want to brainstorm AI-hardware integration:
-* 💬 Feel free to reach out via my [LinkedIn](linkedin.com/in/hao-hsiang-l-382309149)
+* 💬 Feel free to reach out via my [LinkedIn](https://linkedin.com/in/hao-hsiang-l-382309149)
 * 💡 Open an **Issue** in any of my repositories to start a discussion
 
 ---
